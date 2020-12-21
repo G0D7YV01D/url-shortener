@@ -32,5 +32,5 @@ read mask
 url_checker $mask
 echo -e '\nType social engineering words:(like free-money, best-pubg-tricks)'
 echo -e "\nGenerating MaskPhish Link...\n"
-final=$mask-$words
+
 echo -e "Here is the MaskPhish URL:\e[32m ${final} \e[0m\n"
